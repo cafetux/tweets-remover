@@ -6,7 +6,7 @@ Les threads (suite de tweets où on se répond à soit même) sont gérés comme
 
 Le point d'entrée est la classe Main, qui scrolle tout les tweets du compte configuré, puis les tries/regroupe par Thread si besoin, puis supprime si besoin.
 
-Il n'est pas impossible que sur un compte assez actifs/ancien les premiers lancement échouent pour des raisons de quotéq d'appel.
+Il n'est pas impossible que sur un compte assez actifs/ancien les premiers lancement échouent pour des raisons de quota d'appel.
 
 ## Configuration
 
